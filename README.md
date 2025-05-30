@@ -1,12 +1,37 @@
-# React + Vite
+# 🏆 Award-Winning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually captivating, interactive modern web project inspired by Zentry, showcasing cutting-edge UI/UX design principles and technical implementations.
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built using React.js, GSAP, and Tailwind CSS, integrating scroll-triggered animations, geometric transitions, and immersive video storytelling to deliver a luxurious, modern web experience.
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- GSAP (GreenSock Animation Platform)
+- Tailwind CSS
+- Vite (Development and Build Tool)
+
+## ✨ Key Features
+
+- **Scroll-Triggered Animations**: Dynamic animations that respond to user scrolling.
+- **Geometric Transitions with CSS Clip-Path**: Unique geometric shape transitions using clip-path.
+- **3D Hover Interactions**: Interactive 3D transformations enhancing user engagement.
+- **Seamless Video Transitions**: Smooth integration of video elements for enhanced storytelling.
+- **Responsive Design**: Consistent and fluid user experience across various devices.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (version ≥ 14 recommended)
+- npm or yarn
+
+### Installation and Running
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/award-winning-website.git
+   cd award-winning-website
