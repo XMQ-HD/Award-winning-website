@@ -35,3 +35,20 @@ This project is built using React.js, GSAP, and Tailwind CSS, integrating scroll
    ```bash
    git clone https://github.com/your-username/award-winning-website.git
    cd award-winning-website
+
+2. Install dependencies:
+   
+   ```bash
+   npm install
+   
+3. Start the development server:
+   ```bash
+   npm run dev
+   
+4. Open http://localhost:5173 in your browser to view the project.
+
+### 📄 License
+This project is licensed under the MIT License.
+
+### 🙌 Acknowledgements
+Design inspiration from Zentry.
