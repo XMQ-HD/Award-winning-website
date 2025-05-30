@@ -47,8 +47,12 @@ This project is built using React.js, GSAP, and Tailwind CSS, integrating scroll
    
 4. Open http://localhost:5173 in your browser to view the project.
 
-### 📄 License
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://award-winning-website.xmqzone.com/)
+
+## 📄 License
 This project is licensed under the MIT License.
 
-### 🙌 Acknowledgements
+## 🙌 Acknowledgements
 Design inspiration from Zentry.
