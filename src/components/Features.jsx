@@ -75,8 +75,8 @@ const Features = () => {
                     </p>
               
                     <p className='ma-w-md font-circular-web text-lg text-blue-50 opacity-50'>
-                        Immerse yourself in a rich and ever-expanding universe where a vibrant
-                        array of products converge into an interconnected overlay experience
+                        Immerse yourself in a rich and ever-expanding universe<br/> where a vibrant
+                        array of products converge into an <br/> interconnected overlay experience
                         on your world.
                     </p>
                 </div>
@@ -85,7 +85,7 @@ const Features = () => {
                 <BentoTilt className='border-hsla relative mb-7 h-96 w-full overflw-hidden rounded-md md:h-[65vh]'>
                     <BentoCard 
                         src='videos/feature-1.mp4'
-                        title={<>radi<b>n</b>t</>}
+                        title={<>radiA<b>n</b>t</>}
                         description='A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure'
                     />
                 </BentoTilt>
