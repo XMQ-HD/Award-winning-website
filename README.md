@@ -2,6 +2,10 @@
 
 A visually captivating, interactive modern web project inspired by Zentry, showcasing cutting-edge UI/UX design principles and technical implementations.
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://award-winning-website.xmqzone.com/)
+
 ## 📌 Project Overview
 
 This project is built using React.js, GSAP, and Tailwind CSS, integrating scroll-triggered animations, geometric transitions, and immersive video storytelling to deliver a luxurious, modern web experience.
@@ -47,9 +51,6 @@ This project is built using React.js, GSAP, and Tailwind CSS, integrating scroll
    
 4. Open http://localhost:5173 in your browser to view the project.
 
-## 🔗 Live Demo
-
-👉 [Click here to view the live site](https://award-winning-website.xmqzone.com/)
 
 ## 📄 License
 This project is licensed under the MIT License.
